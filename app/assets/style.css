@@ -66,10 +66,11 @@ img {
 }
 
 .loader {
-  margin: 1rem auto;
+  /* margin: 1rem auto; */
+  margin: 15rem auto;
   display: block;
-  width: 4rem;
-  height: 4rem;
+  width: 10rem;
+  height: 10rem;
 }
 
 .post-page {
