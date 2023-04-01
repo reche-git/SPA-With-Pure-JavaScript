@@ -46,7 +46,7 @@ export function Tutorial() {
   <button id="myBtn" class = "btn btn-warning btn-floating btn-lg"><img src="app/assets/favicontutorial.png"></button>
 
   <div id="myModal" class="modal" style="margin: auto;">
-      <div class="modal-content p-2 w-50" style="margin: auto;">
+      <div class="modal-content p-2 w-75" style="margin: auto;">
         <span class="close">&times;</span>
         <div class="modal-header text-center" style="margin: auto;">
           <h5 class="modal-title fw-bold">Wellcome to my SPA with Wordpress REST API Project!</h5>
