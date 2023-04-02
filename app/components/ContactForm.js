@@ -121,7 +121,7 @@ export function ContactForm() {
         data-pattern="^.{1,255}$"
         required
       ></textarea>
-      <input class="btn-primary w-25" type="submit" value="Submit" />
+      <input class="btn-warning w-25" type="submit" value="Submit" />
       <div class="contact-form-loader none">
         <img src="app/assets/loader.svg" alt="Cargando" />
       </div>
