@@ -10,7 +10,7 @@ export function Socials() {
     <div class="tooltip">Twitter</div>
     <i class="fa fa-twitter" aria-hidden="true"></i>
   </a>
-  <a href="https://github.com/reche-git" class="icon instagram" rel="noreferrer" target="_blank">
+  <a href="https://www.instagram.com/" class="icon instagram" rel="noreferrer" target="_blank">
     <div class="tooltip">Instagram</div>
     <i class="fa fa-instagram" aria-hidden="true"></i>
   </a>
