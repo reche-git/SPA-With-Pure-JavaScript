@@ -5,7 +5,7 @@ export function ScrollTop() {
   $scrollBtn.type = "button";
   $scrollBtn.classList.add(
     "btn",
-    "btn-danger",
+    "btn-warning",
     "btn-floating",
     "btn-lg",
     "rounded-circle"
